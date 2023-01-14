@@ -72,11 +72,6 @@
 
     <div class="container mt-5 mb-5">
             
-            <div class="alert alert-warning alert-dismissible fade show" role="alert">
-  				<strong>TESTY BETA/BETA TESTS</strong> Funkcja internacjonalizacji jest aktualnie w wersji beta i tłumaczenie na język angielski może być niepełne. Proszę zgłaszać wszelkie błędy pod adres e-mail <a href="mailto:programix@osbase.pl">programix@osbase.pl</a> lub <a href="mailto:osbase@osbase.pl">osbase@osbase.pl</a>. Dziękujemy!<br>
-            	Internationalization function is actually in beta version and translation to English may not be completed. Please report all bugs by e-mail: <a href="mailto:programix@osbase.pl">programix@osbase.pl</a> or <a href="mailto:osbase@osbase.pl">osbase@osbase.pl</a>. Thank you!
-  				<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-			</div>
     	
 
 
@@ -98,7 +93,6 @@
             </div>
         </div>
     </div>
-    <script src="{{ asset('/assets/js/win-8-1-warning.js') }}"></script>
     
 </body>
 </html>
