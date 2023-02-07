@@ -4,18 +4,18 @@
 @section('content')
 <h1>Polityka prywatności</h1>
 <h2>1. Informacje ogólne</h2>
-1.	Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: osbase.pl<br>
-2.	Operatorem serwisu oraz Administratorem danych osobowych jest: osBase.pl<br>
-3.	Adres kontaktowy poczty elektronicznej operatora: osbase@osbase.pl<br>
+1.	Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: (tu wpisz adres WWW serwisu opartego na skrypcie bazy osBase) <br>
+2.	Operatorem serwisu oraz Administratorem danych osobowych jest: (tu wpisz nazwę serwisu)<br>
+3.	Adres kontaktowy poczty elektronicznej operatora: (e-mail administratora serwisu)<br>
 4.	Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie.<br>
 5.	Serwis wykorzystuje dane osobowe w następujących celach:<br>
 o	Udostępnienie dodatkowych, dobrowolnych usług w serwisie, w przypadku założenia Konta.
-◦ 	Prowadzenie statystyki poprzez system Matomo zainstalowany na własnym hostingu.
+◦ 	Prowadzenie statystyki poprzez system (nazwa systemu analitycznego) zainstalowany na (miejsce instalacji).
 6.	Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób: <br>
 o	Poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora.<br>
 o	Poprzez zapisywanie w urządzeniach końcowych plików cookie (tzw. „ciasteczka”).<br>
 o	Poprzez skrypt wysyłający informację o odwiedzeniu strony.<br>
-7. Serwis nie udostępnia żadnych danych innym podmiotom.
+7. Serwis nie udostępnia żadnych danych innym podmiotom. (chyba że udostępnia, zmienić)
 <h2>2. Wybrane metody ochrony danych stosowane przez Operatora</h2>
 1.	Miejsca logowania i wprowadzania danych osobowych są chronione w warstwie transmisji (certyfikat SSL). Dzięki temu dane osobowe i dane logowania, wprowadzone na stronie, zostają zaszyfrowane w komputerze użytkownika i mogą być odczytane jedynie na docelowym serwerze.<br>
 2.	Hasła użytkowników są przechowywane w postaci hashowanej. Funkcja hashująca działa jednokierunkowo - nie jest możliwe odwrócenie jej działania, co stanowi obecnie współczesny standard w zakresie przechowywania haseł użytkowników.<br>
@@ -52,7 +52,6 @@ Serwis jest hostowany (technicznie utrzymywany) na serwerach Administratora dany
 5.	W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika.<br>
 6.	Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej.<br>
 7.	Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu.<br>
-8.	Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu wykorzystywane mogą być również przez współpracujące z operatorem Serwisu podmioty, w szczególności dotyczy to firm: Google (Google Inc. z siedzibą w USA), Facebook (Facebook Inc. z siedzibą w USA), Twitter (Twitter Inc. z siedzibą w USA).<br>
 <h2>9. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?</h2>
 1.	Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www<br>
 2. Użytkownik może zablokować wszelkie skrypty statystyczne używając odpowiednich wtyczek w przeglądarce.
