@@ -8,7 +8,7 @@ return[
 	'linux' => 'Dystrybucje Linuxa',
 	'privacy' => 'Polityka prywatności',
 	'terms' => 'Regulamin',
-	'created' => 'Strona stworzona z pomocą skryptu osBase: <a href="https://github.com/ProgramiX1024/osbase">Zobacz na GitHubie</a>',
+	'created' => 'Strona stworzona z pomocą skryptu osBase: <a href="https://github.com/ProgramiX1024/osbase">Zobacz na GitHubie</a>. Za jej treść odpowiada właściciel strony, a nie autorzy skryptu.',
 	'home' => 'Strona główna',
 	'about' => 'O nas',
 	'announcements' => 'Ogłoszenia',
