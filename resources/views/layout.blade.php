@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="winiso,winworldpc,windowsbase,basewin,uupdump,iso,microsoft,osbase,baza,linux,pobierz,download,sterowniki,intel,nvidia,amd,virtualbox,vmware,archive">
     <meta name="description" content="{{ __('interface.desc') }}">
     <title>Nazwa Twojej bazy | {{ $title }}</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
