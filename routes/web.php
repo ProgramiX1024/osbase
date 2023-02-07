@@ -17,7 +17,6 @@ Route::get('/', 'App\Http\Controllers\PageController@Home');
 Route::get('/privacy-policy', 'App\Http\Controllers\PageController@PrivacyPolicy');
 Route::get('/terms', 'App\Http\Controllers\PageController@Terms');
 Route::get('/system/{os}', 'App\Http\Controllers\PageController@SystemView');
-Route::get('/timers', 'App\Http\Controllers\PageController@Timers');
 Route::get('/about-us', 'App\Http\Controllers\PageController@AboutUs');
 Route::get('/search', 'App\Http\Controllers\PageController@Search');
 Route::get('/money', 'App\Http\Controllers\PageController@Crowdfunding');
