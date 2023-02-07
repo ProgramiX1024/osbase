@@ -6,22 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="winiso,winworldpc,windowsbase,basewin,uupdump,iso,microsoft,osbase,baza,linux,pobierz,download,sterowniki,intel,nvidia,amd,virtualbox,vmware,archive">
     <meta name="description" content="{{ __('interface.desc') }}">
-    <title>osBase.pl | {{ $title }}</title>
+    <title>Nazwa Twojej bazy | {{ $title }}</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <link rel="stylesheet" href="{{ asset('assets/css/bs.css') }}">
-	<script>
-		var _paq = window._paq = window._paq || [];
-		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-		_paq.push(['trackPageView']);
-		_paq.push(['enableLinkTracking']);
-		(function() {
-		var u="//matomo.osbase.pl/matomo/";
-		_paq.push(['setTrackerUrl', u+'matomo.php']);
-		_paq.push(['setSiteId', '1']);
-		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-		g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-		})();
-	</script>
+	
 </head>
 <body>
     <script type="text/javascript">
@@ -42,7 +30,7 @@
     			<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Język/Language</a>
     			<div class="dropdown-menu">
     				<a class="dropdown-item" href="language/pl">Polski</a>
-    				<a class="dropdown-item" href="language/en">English (BETA) (partly translated)</a>
+    				<a class="dropdown-item" href="language/en">English</a>
     			</div>
     		</li>
             <li class="nav-item">
@@ -82,7 +70,7 @@
             <hr>
             <div class="row">
                 <div class="col">
-                osBase.pl v1.1 | 
+                osBase v1.1.1-GH | 
                 <a href="/privacy-policy">{{ __('interface.privacy') }}</a>
             	|
             	<a href="/terms">{{ __('interface.terms') }}</a>
