@@ -2,10 +2,10 @@
 @php($title = 'Regulamin')
 
 @section('content')
-<h1>ZASADY UŻYWANIA SERWISU OSBASE.PL</h1>
+<h1>ZASADY UŻYWANIA SERWISU (nazwa serwisu)</h1>
        <h2>1. Postanowienia ogólne</h2>
-    1. Usługi Serwisu są świadczone przez osBase.pl<br>
-    2. Adres serwisu brzmi: <a href="https://osbase.pl">"https://osbase.pl"</a><br>
+    1. Usługi Serwisu są świadczone przez (nazwa serwisu)<br>
+    2. Adres serwisu brzmi: <a href="#">(nazwa serwisu)</a><br>
     3. Regulamin wchodzi w życie z dniem opublikowania.<br>
     4. Regulamin wraz z Polityką prywatności może być zmieniany, jednak:<br>
         a. W przypadku zmiany dotyczącej wyłącznie Usług podstawowych – informacja o zmianie powinna być umieszczona na głównej stronie Serwisu.<br>
@@ -36,5 +36,5 @@
     2. Użytkownik, któremu Usługodawca zaprzestał świadczenie usług, może się odwołać od tej decyzji.<br>
     3. Niezapoznanie się z Regulaminem nie zwalnia z jego przestrzegania.<br>
 <h4>Życzymy miłego korzystania z serwisu,<br>
-Ekipa osBase.pl</h4>
+Ekipa (nazwa serwisu)</h4>
 @endsection
